@@ -12,7 +12,7 @@ body > header {
     position: absolute;     /*Header staat absolute om zelf een plaatst te bepalen*/
     top: 0;
     left: 0;
-    bottom: 30em;
+    bottom: 40em;
     background-color: white;
     box-shadow: 0 .125rem 0 0 rgba(7, 7, 33, .15);
     width: 100%;
